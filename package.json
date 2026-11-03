@@ -1,0 +1,13 @@
+{
+  "name": "xiaozhi-music-railway",
+  "version": "1.0.0",
+  "description": "Real music MCP WebSocket server for XiaoZhi AI - Multi-platform music search & playable URLs via Meting",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.22.1"
+  }
+}
